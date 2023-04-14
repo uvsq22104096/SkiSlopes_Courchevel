@@ -1,1 +1,20 @@
-{"Chanrossa": {"Creux": 
+{   "Chanrossa":{"Creux":[["Piste Chanrossa", 1], ["Piste Jean Pachod", 1]], "Roc Merlet": ["Piste Roc Merlet", 1]},
+    "Creux":   {"Chanrossa": ["Télésiège Chanrossa", 1], "Prameruel": ["Piste Creux", 1], "Vizelle": [["????Piste Marmottes",1],["Télésiège Marmottes", 1]] },
+    "Roc Merlet":{"Chanrossa":["Télésiège Roc Merlet", 1], "Roc Mugnier": [["Piste Plan Mugnier", 1],["Piste Pyramide", 1] ,["Piste Mont russes", 1]]},
+    "Roc Mugnier": {"Roc Merlet": ["Téléski Pyramide", 1], "Prameruel":["Piste Roc Mugnier", 1], "Bosses": ["Piste grandes bosses", 1]},
+    "Pramuel": {"Roc Mugnier": ["Télésiège Roc Mugnier", 1],"Aiguille":["Télésiège Aiguille du fruit", 1], "Gravelles": ["Télésiège Gravelles", 1]},
+    "Gravelles": {"Suisses": ["Piste altiport", 1]},
+    "Suisses": {"Vizelle": ["Télésiège Suisses", 1]},
+    "Biollay": {"Suisses": ["Piste Super pralong", 1], "Pralong": [["Piste Pralong", 1], ["Piste Biollay", 1 ]],"Verdons": ["Piste Biollay verdons", 1], "Lac": ["Piste Marquetty", 1]},
+    "Pralong": {"Biollay": ["Télésiège Pralong", 1]},
+    "Saulire": {"Lac Creux": ["Piste Lac Creux", 1], "Creux": ["Piste Creux", 1]},
+    "Verdons": {"Vizelle": ["Télécabine Vizelle"],"Saulire": ["Téléphérique Saulire", 1] },
+    "Vizelle": {},
+    "Signal":  {"Chapelet":[["Piste Chapelets",1], ["Piste rochers", 1]], "Bosses":["Piste grande bosse", 1]},
+    "Chapelet":{"Stade": ["Piste Praline", 1], "Signal": ["Télésiège Chapelets"]},
+    "Bel air": {"Chapelet": [["Piste bel air", 1], ["Piste rochers", 1]], "Stade": ["Piste Ariondaz", 1]},
+    "Bosses": {"Signal": ["Télésiège Signal", 1], "Prameruel": ["Téléski Gravelles", 1], "Chapelet" : ["Piste Praline", 1]},
+    "Creux noirs": {"Lac Creux": ["Roches grises", 1]},
+    "Lac Creux": {"Creux noirs": ["Télésiège Creux noirs", 1], "Gravelles": ["Piste Lac Creux", 1]}
+
+}
