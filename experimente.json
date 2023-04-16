@@ -14,7 +14,7 @@
     "Chapelet":{"Stade": ["Piste Praline", 0.084], "Signal": ["Télésiège Chapelets",0.104]},
     "Bel air": {"La Grande Combe":["Piste Bleue", 0.03],"Chapelet": [["Piste bel air", 0.025], ["Piste rochers", 0.05]], "Stade": ["Piste Ariondaz", 0.05]},
     "Bosses": {"La Grande Combe":["Piste Indiens", 0.05],"Signal": ["Télésiège Signal", 0.13], "Prameruel": ["Téléski Gravelles", 0.08], "Chapelet" : ["Piste Praline", 0.084]},
-    "Creux noirs": {#"Lac Creux": ["Roches grises", 0.01]},
+    "Creux noirs": {"Lac Creux": ["Roches grises", 0.01]},
     "Lac Creux": {"Creux noirs": ["Télésiège Creux noirs", 0.104], "Gravelles": ["Piste Lac Creux", 0.02]},
     "Chenus": {"Grangette": ["Piste Anémones", 0.08], "Lac":["Piste Chenus", 0.05],"Praz-juget":["Piste Lanches", 0.023]},
     "Loze": {"Crêtes": ["Piste Crêtes",0.02], "Grangette": ["Piste Loze", 0.036], "Tovets":["Piste Dou du midi", 0.07], "Praz":["Piste petit dou", 0.023]},
