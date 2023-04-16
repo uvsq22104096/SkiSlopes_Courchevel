@@ -12,8 +12,8 @@
     "Vizelle": {"Verdons":["Piste M",0.17], "Rocher":[["Piste Combe Saulire", 0.21], ["Piste Combe Pylones", 0.12]], "Lac Creux":["Piste Marmotte", 0.15], "Suisses":["Piste Suisses", 0.14], "Aiguille":["Piste Turcs", 0.14]},
     "Signal":  {"Chapelet":[["Piste Chapelets",0.13], ["Piste rochers", 0.2]], "Bosses":["Piste grande bosse", 0.1]},
     "Chapelet":{"Stade": ["Piste Praline", 0.105], "Signal": ["Télésiège Chapelets"]},
-    "Bel air": {"***La Grande Combe":["Piste Bleue", 1],"Chapelet": [["Piste bel air", 0.1], ["Piste rochers", 0.2]], "Stade": ["Piste Ariondaz", 0.06]},
-    "Bosses": {"***La Grande Combe":["Piste Indiens", 1],"Signal": ["Télésiège Signal", 0.13], "Prameruel": ["Téléski Gravelles", 0.06], "Chapelet" : ["Piste Praline", 0.105]},
+    "Bel air": {"La Grande Combe":["Piste Bleue", 0.05],"Chapelet": [["Piste bel air", 0.1], ["Piste rochers", 0.2]], "Stade": ["Piste Ariondaz", 0.06]},
+    "Bosses": {"La Grande Combe":["Piste Indiens", 0.07],"Signal": ["Télésiège Signal", 0.13], "Prameruel": ["Téléski Gravelles", 0.06], "Chapelet" : ["Piste Praline", 0.105]},
     "Creux noirs": {"Lac Creux": ["Roches grises", 0.03]},
     "Lac Creux": {"Creux noirs": ["Télésiège Creux noirs", 0.104], "Gravelles": ["Piste Lac Creux", 0.09]},
     "Chenus": {"Grangette": ["Piste Anémones", 0.11], "Lac":["Piste Chenus", 0.22],"Praz-juget":["Piste Lanches", 0.09]},
@@ -23,19 +23,19 @@
     "Praz-Juget": {"Col de la Loze":["Téléski Dou des Lanches", 0.22]},
     "Murger": {"Loz":["Téléski Bouc blanc", 1.9 ],"Tania": ["Piste Moreta blanche"]  },
     "Tania":{"Murger":["Téléski Gros Murger", 1.9], "Bouc blanc":["Télécabine la Tania", 0.07]},
-    "Forêt": {"***Saint Bon":["Piste Saint Bon", 1],"Crêtes": ["Télécabine Forêt", 0.08], "Praz":["Télécabine Paz", 0.08]},
+    "Forêt": {"Saint Bon":["Piste Saint Bon", 0.12],"Crêtes": ["Télécabine Forêt", 0.08], "Praz":["Télécabine Paz", 0.08]},
     "Plantrey": {"Forêt": ["Piste Brigues puis piste Amoureux", 0.17], "Epicea": ["Téléski Epicea", 1]},
     "Epicea":{"Praz": ["Piste petit dou", 0.09], "Plantrey":["Piste Plantrey", 0.03]},
-    "Grangette":{"***Alpin":["Téléski Bellecote", 1],"Plantrey":["Piste Grangette", 0.03], "Tovets":["Piste Tovets",0.02], "Roys":["Piste Provères", 0.06]},
+    "Grangette":{"Alpin":["Téléski Bellecote", 0.08],"Plantrey":["Piste Grangette", 0.03], "Tovets":["Piste Tovets",0.02], "Roys":["Piste Provères", 0.06]},
     "Roys":{"Grangette":["Télécabine Grangettes", 0.04]},
     "Praz":{"Plantrey": ["Piste Jardin", 0.3]},
     "Tovets": {"Grangette":["Télésiège Tovets", 0.04]},
     "Col de la Loze":{"Praz-Juget":["Piste Dou des Lanches",0.22], "Chenus":["Piste Col de la Loze", 0.04]},
     "Aiguille":{"Gravelles":["Piste Suisses", 0.14], "Gravelle":["Piste Park city", 0.05] },
 
-    "Lac":{"Chenus":["Télécabine Coqs", 1], "Biollay":["Téléski Biollay", 1], "Rocher":[["Téléski Rocher de l'Ombre",1],["Téléski Sources", 1]]},
-    "Rocher":{"Lac":["Piste Rochers de l'ombre",1]},
-    "La Grande Combe":{"Bosses": [["Télésiège 3 Vallées", 1],["Téléski Marquis", 1]], "Bel Air":["Télécabine Ariondaz", 1], "Stade":["Téléski Belvédère",1]},
-    "Alpin":{"Grangette":["Piste Bellecote", 1], "Pralong":["Jardin Alpin", 1]}
+    "Lac":{"Chenus":["Télésiège Coqs", 0.11], "Biollay":["Téléski Biollay", 0.13], "Rocher":[["Téléski Rocher de l'Ombre",1.7],["Téléski Sources", 0.15]]},
+    "Rocher":{"Lac":["Piste Rochers de l'ombre",1.8]},
+    "La Grande Combe":{"Bosses": [["Télésiège 3 Vallées", 0.14],["Téléski Marquis", 1.9]], "Bel Air":["Télécabine Ariondaz", 0.08], "Stade":["Téléski Belvédère",0.13]},
+    "Alpin":{"Grangette":["Piste Bellecote", 0.04], "Pralong":["Jardin Alpin", 0.03]}
 }
 
