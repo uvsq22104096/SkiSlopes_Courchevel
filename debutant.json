@@ -34,7 +34,7 @@
     "Aiguille":{"Gravelles":["Piste Suisses", 0.14], "Gravelle":["Piste Park city", 0.05] },
     "Lac":{"Chenus":["Télésiège Coqs", 0.11], "Biollay":["Téléski Biollay", 0.13], "Rocher":[["Téléski Rocher de l'Ombre",1.7],["Téléski Sources", 0.15]]},
     "Rocher":{"Lac":["Piste Rochers de l'ombre",1.8]},
-    "La Grande Combe":{"Bosses": [["Télésiège 3 Vallées", 0.14],["Téléski Marquis", 1.9]], "Bel Air":["Télécabine Ariondaz", 0.08], "Stade":["Téléski Belvédère",0.13]},
-    "Alpin":{"Grangette":["Piste Bellecote", 0.04], "Pralong":["Jardin Alpin", 0.03]}
+    "La Grande Combe":{"Bosses": [["Télésiège 3 Vallées", 0.14],["Téléski Marquis", 0.2]], "Bel Air":["Télécabine Ariondaz", 0.08], "Stade":["Téléski Belvédère",0.13]},
+    "Alpin":{"Grangette":["Piste Bellecote", 0.05], "Pralong":["Jardin Alpin", 0.03]}
 }
 
