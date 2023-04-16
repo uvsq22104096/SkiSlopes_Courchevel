@@ -32,7 +32,6 @@
     "Tovets": {"Grangette":["Télésiège Tovets", 0.04]},
     "Col de la Loze":{"Praz-Juget":["Piste Dou des Lanches",0.03], "Chenus":["Piste Col de la Loze", 0.03]},
     "Aiguille":{"Gravelles":["Piste Suisses", 0.02], "Gravelle":["Piste Park city", 0.012] },
-
     "Lac":{"Chenus":["Télécabine Coqs", 0.11], "Biollay":["Téléski Biollay", 0.13], "Rocher":[["Téléski Rocher de l'Ombre",1.7],["Téléski Sources", 0.15]]},
     "Rocher":{"Lac":["Piste Rochers de l'ombre",1.7]},
     "La Grande Combe":{"Bosses": [["Télésiège 3 Vallées", 0.14],["Téléski Marquis", 0.2]], "Bel Air":["Télécabine Ariondaz", 0.08], "Stade":["Téléski Belvédère",0.13]},
