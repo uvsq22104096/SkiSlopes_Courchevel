@@ -21,7 +21,7 @@
     "Crêtes": {"Chenus":["Télésiège Chenus", 0.06], "Praz-juget":["Piste arolles", 0.06], "Tovets":["Piste Dou du midi", 0.27], "Forêt":["Piste Jean Blanc puis piste Amoureux", 0.27]},
     "Bouc blanc": {"Murger":["Piste Bouc blanc", 0.15], "Troïka":[["Piste Folyères"],["Piste Plan fontaine", 0.09]], "Chenus":["Téléski Praz Juget",1.7]},
     "Praz-Juget": {"Col de la Loze":["Téléski Dou des Lanches", 0.22]},
-    "Murger": {"Loz":["Téléski Bouc blanc", 1.9 ],"Tania": ["Piste Moreta blanche"]  },
+    "Murger": {"Loz":["Téléski Bouc blanc", 1.9 ],"Tania": ["Piste Moreta blanche"] ,0.11 },
     "Tania":{"Murger":["Téléski Gros Murger", 1.9], "Bouc blanc":["Télécabine la Tania", 0.07]},
     "Forêt": {"Crêtes": ["Télécabine Forêt", 0.08], "Praz":["Télécabine Paz", 0.08]},
     "Plantrey": {"Forêt": ["Piste Brigues puis piste Amoureux", 0.17], "Epicea": ["Téléski Epicea", 1]},
